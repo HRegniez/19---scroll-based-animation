@@ -15,18 +15,6 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/en/download/) (LTS version recommended)
 - npm (comes with Node.js)
 
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-cd [project-directory]
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
 
 ## 🚀 Running the Project
 
@@ -101,7 +89,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Debug Features
 - Integration with `lil-gui` for real-time color adjustments
 - Live material updates
-- Easy-to-use debug interface for development
 
 ### Styling and Layout
 - Clean, modern aesthetic with dark theme
@@ -109,13 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Responsive typography using viewport units
 - Fixed canvas positioning for smooth overlay effects
 
-## 🎨 Customization
-
-You can customize various aspects of the animation:
-- Change object colors through the debug UI
-- Modify object distances and sizes in the configuration
-- Adjust animation speeds and easing functions
-- Customize section content and styling
 
 ## 🔍 Key Files
 - `script.js`: Main Three.js setup and animation logic
